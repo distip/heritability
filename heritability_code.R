@@ -17,4 +17,3 @@ for (i in 4:ncol(data)) {
   H_all <- c(H_all, H$repeatability)
   }
 print(H_all)
-
